@@ -66,8 +66,7 @@ PRODUCT_PACKAGES += \
     curl \
     libbson \
     libcurl \
-    tcpdump \
-    Torch
+    tcpdump
 
 # Charger
 PRODUCT_PACKAGES += charger charger_res_images
